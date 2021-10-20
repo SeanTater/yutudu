@@ -1,0 +1,5 @@
+[workspace]
+members = ["yutudu-front", "yutudu-common", "yutudu-back"]
+
+[profile.release]
+debug = true
